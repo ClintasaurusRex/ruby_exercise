@@ -11,5 +11,5 @@ end
 p = Person.new('L. Ron')
 puts p.name
 
-p.name = "poopybutthole"
+p.name = "Mr. Nimbus"
 puts p.name
